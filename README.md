@@ -5,6 +5,7 @@ The complete project documentation is available upon request from the responsibl
 ## Register.cy.js
 
 https://github.com/user-attachments/assets/264b400d-9295-4b7e-971f-003030b6e5b3
+
  ---
  Para os futuros estagiarios:
 Mantenha em mente que, como não pagamos o MailSlurp ou serviços similares, estamos limitados a apenas 30 e-mails criados por mês. Caso atinja esse limite, altere a variável `MAILSLURP_API_KEY` no arquivo `.env` para uma chave com quota disponível.
