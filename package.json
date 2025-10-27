@@ -1,5 +1,6 @@
 {
   "devDependencies": {
-    "cypress": "^15.5.0"
+    "cypress": "^15.5.0",
+    "cypress-mailslurp": "^1.11.1"
   }
 }

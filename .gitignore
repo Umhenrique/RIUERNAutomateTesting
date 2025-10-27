@@ -1,0 +1,28 @@
+# Node dependencies
+node_modules/
+
+# Environment variables and API keys
+.env
+*.env
+.env.local
+.env.*.local
+config.json
+secrets.json
+apiKeys.json
+credentials.json
+
+# Cypress specific
+cypress.env.json
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
